@@ -2,8 +2,6 @@
 
 ### Github: https://github.com/mbeaner/note-tracker
 
-### Gitpages: http://mbeaner.note-tracker/
-
 ### Heroku deployment: https://evening-oasis-88461.herokuapp.com/ 
 
 ## User Story
